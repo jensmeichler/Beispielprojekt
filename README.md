@@ -3,6 +3,7 @@ Beispielprojekt für das Praktikum vom 07.01.2020 - 24.01.2020
 
 # Hilfreiche Links für die Ausarbeitung
 https://getbootstrap.com/docs/4.3/layout/grid/  
+https://getbootstrap.com/docs/4.0/components/dropdowns/  
 
 # Hilfreiche Infos
 NodeJs installieren:  
