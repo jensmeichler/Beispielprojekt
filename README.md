@@ -2,6 +2,14 @@
 Beispielprojekt für das Praktikum vom 07.01.2020 - 24.01.2020  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
+# Installation
+npm install -g @angular/cli  
+git clone https://github.com/jensmeichler/Beispielprojekt.git  
+cd ./Beispielprojekt  
+delete node_modules  
+npm install @angular/core @latest  
+ng serve  
+
 # Hilfreiche Links für die Ausarbeitung
 https://getbootstrap.com/docs/4.3/layout/grid/  
 https://getbootstrap.com/docs/4.0/components/dropdowns/  
